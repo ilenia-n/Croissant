@@ -6,3 +6,13 @@ body{
     text-align: center;
     font-size: x-small;
 }
+
+.shecodes {
+    color: #FC709B;
+    text-decoration: none;
+}
+
+.shecodes:hover{
+    color: #9771F3;
+    text-decoration: underline;
+}
